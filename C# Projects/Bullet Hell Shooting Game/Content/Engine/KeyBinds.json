@@ -1,0 +1,9 @@
+﻿{
+  "keybinds": {
+    "Up": "W",
+    "Left": "A",
+    "Down": "S",
+    "Right": "D",
+    "Shoot": "Space"
+  }
+}

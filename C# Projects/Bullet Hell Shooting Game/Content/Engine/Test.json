@@ -1,0 +1,35 @@
+﻿{
+  "stage": {
+    "1": {
+      "time": 0,
+      "enemyType": "FinalBoss",
+      "enemyAmount": 1,
+      "interval": 1.5,
+      "patterns": {
+        "1": {
+          "sequenceInterval": 0.015,
+          "sequenceShotCount": 50,
+          "projectileType": "Grunt",
+          "projectilePattern": "Spiral"
+        },
+        "2": {
+          "sequenceInterval": 1.5,
+          "sequenceShotCount": 2,
+          "projectileType": "Grunt",
+          "projectilePattern": "Bonus"
+        },
+        "3": {
+          "sequenceInterval": 0.015,
+          "sequenceShotCount": 50,
+          "projectileType": "Grunt",
+          "projectilePattern": "TripleSpiral"
+        }
+      },
+      "positionX": 300,
+      "positionY": -20,
+      "offsetX": 0,
+      "offsetY": 0,
+      "speed": 200
+    }
+  }
+}

@@ -1,0 +1,55 @@
+﻿{
+  "stage": {
+    "1": {
+      "time": 0,
+      "enemyType": "GruntA",
+      "enemyAmount": 7,
+      "interval": 0.5,
+      "patterns": {
+        "1": {
+          "projectileType": "Grunt",
+          "projectilePattern": "Single"
+        }
+      },
+      "positionX": 50,
+      "positionY": -250,
+      "offsetX": 50,
+      "offsetY": 50,
+      "speed": 400
+    },
+    "2": {
+      "time": 4,
+      "enemyType": "GruntA",
+      "enemyAmount": 6,
+      "interval": 0.5,
+      "patterns": {
+        "1": {
+          "projectileType": "Grunt",
+          "projectilePattern": "Single"
+        }
+      },
+        "positionX": 400,
+        "positionY": 0,
+        "offsetX": 50,
+        "offsetY": -50,
+        "speed": 400
+      },
+    "3": {
+      "time": 16,
+      "enemyType": "GruntB",
+      "enemyAmount": 5,
+      "interval": 1.5,
+      "patterns": {
+        "1": {
+          "projectileType": "Grunt",
+          "projectilePattern": "Tri"
+        }
+      },
+        "positionX": -20,
+        "positionY": 50,
+        "offsetX": 0,
+        "offsetY": 0,
+        "speed": 200
+      }
+    }
+}

@@ -1,0 +1,60 @@
+﻿{
+  "enemies": {
+    "GruntA": {
+      "MovementType": "GruntA",
+      "ProjectileType": "Grunt",
+      "positionX": "350",
+      "positionY": "-20",
+      "sizeX": "25",
+      "sizeY": "24",
+      "speed": "200",
+      "Texture": "GruntA",
+      "ShotInterval": "0.5",
+      "Health": "10",
+      "PatternType": "Single"
+    },
+
+    "GruntB": {
+      "MovementType": "GruntB",
+      "ProjectileType": "Grunt",
+      "positionX": "-10",
+      "positionY": "100",
+      "sizeX": "20",
+      "sizeY": "20",
+      "speed": "400",
+      "Texture": "GruntB",
+      "ShotInterval": "0.5",
+      "Health": "10",
+      "PatternType": "Single"
+    },
+
+    "MidBoss": {
+      "MovementType": "MidBoss",
+      "ProjectileType": "Grunt",
+      "positionX": "350",
+      "positionY": "-20",
+      "sizeX": "50",
+      "sizeY": "50",
+      "speed": "300",
+      "Texture": "Crab",
+      "ShotInterval": "0.5",
+      "Health": "75",
+      "PatternType": "Tri"
+
+    },
+
+    "FinalBoss": {
+      "MovementType": "FinalBoss",
+      "ProjectileType": "Grunt",
+      "positionX": "350",
+      "positionY": "-20",
+      "sizeX": "120",
+      "sizeY": "80",
+      "speed": "300",
+      "Texture": "Dragon",
+      "ShotInterval": "2",
+      "Health": "150",
+      "PatternType": "Tri"
+    }
+  }
+}

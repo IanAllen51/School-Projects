@@ -1,0 +1,25 @@
+﻿{
+  "stage": {
+
+
+
+
+    "1": {
+      "time": 0,
+      "enemyType": "MidBoss",
+      "enemySpeed": 1000,
+      "enemyAmount": 5,
+      "interval": 1.5,
+      "sequenceInterval": 4,
+      "sequenceShotCount": 1,
+      "projectileType": "Grunt",
+      "projectilePattern": "Bonus",
+      "positionX": 300,
+      "positionY": -20,
+      "offsetX": 0,
+      "offsetY": 0,
+      "speed": 200,
+      "duration": -1
+    }
+  }
+}

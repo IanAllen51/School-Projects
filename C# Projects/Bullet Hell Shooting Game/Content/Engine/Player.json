@@ -1,0 +1,20 @@
+﻿{
+  "player": {
+    "MovementType": "User",
+    "AttackSpeed": "0.2",
+    "positionX": "350",
+    "positionY": "700",
+    "sizeX": "20",
+    "sizeY": "20",
+    "speed": "300",
+    "Texture": "Player",
+    "HealthTexture": "solid_color",
+    "ShotInterval": "0",
+    "Health": "20",
+    "PatternType": "Single",
+    "ProjectileType": "Basic",
+    "Lives": "2",
+    "sequenceInterval": "0",
+    "sequenceShotCount": "0"
+  }
+}

@@ -1,0 +1,33 @@
+   STRING|LENGTH|FINGERPRINT
+---------------------------------------------
+COVID  S1|125   |GTACAGTGAACAATGCTAGG
+         |      |GAGAGCTGCCTATATGGAAG
+         |      |AGCCCTAATGTGTAAAATTA
+         |      |ATTTTAGTAGTGCTATCCCC
+         |      |ATGTGATTTTAATAGCTTCT
+         |      |TAGGAGAATGACAAAAAAAA
+         |      |AAAAA
+       S2|8     |ACTTACCG
+       S3|8     |ATACAGTG
+       S4|8     |ACTAAGGA
+       S5|7     |CGCGCTC
+SARS   S6|1     |T
+       S7|7     |AACCTCG
+MERS   S8|7     |CAAGGGG
+       S9|7     |CCCCTTG
+      S10|6     |GTCCCC
+
+
+FINGER PRINT CREATION:
+	 S1: 0 ticks (~0 seconds)
+	 S2: 1 ticks (~0.001 seconds)
+	 S3: 1 ticks (~0.001 seconds)
+	 S4: 0 ticks (~0 seconds)
+	 S5: 0 ticks (~0 seconds)
+	 S6: 0 ticks (~0 seconds)
+	 S7: 0 ticks (~0 seconds)
+	 S8: 0 ticks (~0 seconds)
+	 S9: 0 ticks (~0 seconds)
+	 S10: 0 ticks (~0 seconds)
+TOTAL FINGERPRINTING TIME: 16 ticks (~0.016 seconds)
+

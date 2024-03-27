@@ -1,6 +1,6 @@
 # School-Projects
 
-This Repo is a representaton of Coding projects and assignments that i completed during my
+This Repo is a representaton of Coding projects and assignments that I completed during my
 time at Washington State University. The coding is a collection of C#, C++, Python, SQL, and
 some assembly. (Java projects will be added at a later time). 
 
